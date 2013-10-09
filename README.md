@@ -1,5 +1,5 @@
 # PC Interest
 
-This is the PC Interest Sample App by Peter Alexander Chapman
+This is an sample app of Pinterest by Peter Alexander Chapman named PCInterest
 
 by [Peter Alexander Chapman] (http://peterchapman.com.au)
